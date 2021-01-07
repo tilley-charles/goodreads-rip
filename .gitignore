@@ -1,0 +1,14 @@
+*
+!*/
+!*.R
+!*.Rmd
+!*.Rprofile
+!*.Rproj
+!*.lock
+!*.dcf
+!*.md
+!.gitignore
+!src/*
+
+
+.Rproj.user
