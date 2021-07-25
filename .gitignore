@@ -4,11 +4,9 @@
 !*.Rmd
 !*.Rprofile
 !*.Rproj
+.Rproj.user
 !*.lock
 !*.dcf
 !*.md
 !.gitignore
 !src/*
-
-
-.Rproj.user
