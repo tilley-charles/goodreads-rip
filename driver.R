@@ -25,7 +25,12 @@ for (id in c(ids)) {
   
   Sys.sleep(base::sample(c(1:3), size = 1))
   
-  df <- rbind(df, gr_meta_pull(id))
+  res <- NA
+  while (is.na(res[1])) {
+    res <- tryCatch(gr_meta_pull(id), error = function(e) { NA })
+  }
+  
+  df <- rbind(df, res)
   
 }
 
