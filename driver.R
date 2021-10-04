@@ -23,7 +23,7 @@ df <- NULL
 
 for (id in c(ids)) {
   
-  Sys.sleep(base::sample(c(5:10), size = 1))
+  Sys.sleep(base::sample(c(1:3), size = 1))
   
   df <- rbind(df, gr_meta_pull(id))
   
