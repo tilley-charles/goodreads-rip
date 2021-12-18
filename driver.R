@@ -36,3 +36,6 @@ for (id in c(ids)) {
 
 df
 
+# write out results
+write.csv(df, file = "results.csv", row.names = F)
+
