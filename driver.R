@@ -3,6 +3,7 @@ rm(list = ls())
 # package declarations
 library(assertr)
 library(dplyr)
+library(purrr)
 library(rvest)
 library(stringr)
 library(tibble)
@@ -19,9 +20,7 @@ ids <-
 
 
 # pull down metadata
-df <- NULL
-
-for (id in c(ids)) {
+gr_trycatch <- function(id) {
   
   Sys.sleep(base::sample(c(1:3), size = 1))
   
@@ -30,11 +29,12 @@ for (id in c(ids)) {
     res <- tryCatch(gr_meta_pull(id), error = function(e) { NA })
   }
   
-  df <- rbind(df, res)
+  return(res)
   
 }
 
-df
+df <- purrr::map_dfr(c(ids), ~ gr_trycatch(.x))
+
 
 # write out results
 write.csv(df, file = "results.csv", row.names = F)
