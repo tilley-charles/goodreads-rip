@@ -12,10 +12,11 @@ gr_meta_pull <- function(id) {
   df <-
     tibble(
       gr_id      = id,
-      gr_title   = html %>% rvest::html_node("#bookTitle") %>% html_text(.),
-      gr_pages   = html %>% rvest::html_node("#details")   %>% html_node("[itemprop='numberOfPages']") %>% html_text(.),
-      gr_ratings = html %>% rvest::html_node("#bookMeta")  %>% html_node("[itemprop='ratingCount']")   %>% html_attr("content"),
-      gr_stars   = html %>% rvest::html_node("#bookMeta")  %>% html_node("[itemprop='ratingValue']")   %>% html_text(.)
+      gr_title   = html %>% rvest::html_node("#bookTitle")   %>% html_text(.),
+      gr_author  = html %>% rvest::html_node("#aboutAuthor") %>% html_node("[class='bookAuthorProfile__name']") %>% html_text(.),
+      gr_pages   = html %>% rvest::html_node("#details")     %>% html_node("[itemprop='numberOfPages']")        %>% html_text(.),
+      gr_ratings = html %>% rvest::html_node("#bookMeta")    %>% html_node("[itemprop='ratingCount']")          %>% html_attr("content"),
+      gr_stars   = html %>% rvest::html_node("#bookMeta")    %>% html_node("[itemprop='ratingValue']")          %>% html_text(.)
     )
   
   df <-
