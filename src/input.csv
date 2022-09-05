@@ -1,60 +1,61 @@
-﻿title,id
-The Sun Also Rises,3876
-Blood Meridian,394535
-Going After Cacciato,3446
-Ubik,22590
-A Hero of Our Time,226378
-"I, Claudius",18765
-Jitterbug Perfume,8682
-The Tartar Steppe,83017
-Innocence,17797381
-The Maltese Falcon,29999
-Love in the Time of Cholera,9712
-Rules of Civility,10054335
-Something Wicked This Way Comes,248596
-The Long Ships,438452
-The 42nd Parallel,7101
-White Fang,43035
-Artemis,34928122
-The Heart is a Lonely Hunter,37380
-Warlock,183199
-Atonement,6867
-Darkness at Noon,30672
-Beware of Pity,59149
-Lake Success,36739942
-Midnight in the Garden of Good and Evil,386187
-Ham on Rye,38501
-The Moon is a Harsh Mistress,16690
-Libra,400
-A Canticle for Leibowitz,164154
-Altered Carbon,40792913
-Pale Fire,7805
-The Universal Baseball Association,156192
-Invisible Monsters,36236125
-Just Mercy,20342617
-Cleopatra,957186
-The Trial,17690
-The Innocents Abroad,2443
-The Sympathizer,23168277
-The Nickel Boys,42270835
-Kon-Tiki,790171
-The Crying of Lot 49,2794
-Play it as it Lays,428
-A Walk in the Woods,9791
-Blindness,40495148
-Death Comes for the Archbishop,545951
-I Served the King of England,397503
-The Three-Body Problem,20518872
-The Violent Bear It Away,48468
-Memoirs of Hadrian,12172
-Been Down So Long It Looks Like Up To Me,418
-Brideshead Revisited,30933
-Lucky Jim,395182
-And Then There Were None,16299
-The Shiralee,625198
-Devil House,57693663
-Death and the Penguin,152893
-Tender is the Flesh,49090884
-Butcher's Crossing,457228
-Dictionary of the Khazars,321566
-Kafka on the Shore,4929
+﻿gr_id,title,author,publication,language,gender,nationality
+3876,The Sun Also Rises,Ernest Hemingway,1926,English,M,USA
+394535,Blood Meridian,Cormac McCarthy,1985,English,M,USA
+3446,Going After Cacciato,Tim O'Brien,1978,English,M,USA
+22590,Ubik,Philip K Dick,1969,English,M,USA
+226378,A Hero of Our Time,Mikhail Lermontov,1840,Russian,M,Russia
+18765,"I, Claudius",Robert Graves,1934,English,M,England
+8682,Jitterbug Perfume,Tom Robbins,1984,English,M,USA
+83017,The Tartar Steppe,Dino Buzzati,1940,Italian,M,Italy
+17797381,Innocence,Dean Koontz,2013,English,M,USA
+29999,The Maltese Falcon,Dashiell Hammett,1930,English,M,USA
+9712,Love in the Time of Cholera,Gabriel García Márquez,1985,Spanish,M,Colombia
+10054335,Rules of Civility,Amor Towles,2011,English,M,USA
+248596,Something Wicked This Way Comes,Ray Bradbury,1962,English,M,USA
+438452,The Long Ships,Frans G Bengtsson,1941,Swedish,M,Sweden
+7101,The 42nd Parallel,John Dos Passos,1930,English,M,USA
+43035,White Fang,Jack London,1906,English,M,USA
+34928122,Artemis,Andy Weir,2017,English,M,USA
+37380,The Heart is a Lonely Hunter,Carson McCullers,1940,English,F,USA
+183199,Warlock,Oakley Hall,1958,English,M,USA
+6867,Atonement,Ian McEwan,2001,English,M,England
+30672,Darkness at Noon,Arthur Koestler,1940,German,M,Austria-Hungary
+59149,Beware of Pity,Stefan Zweig,1939,German,M,Austria-Hungary
+36739942,Lake Success,Gary Shteyngart,2018,English,M,USA
+386187,Midnight in the Garden of Good and Evil,John Berendt,1994,English,M,USA
+38501,Ham on Rye,Charles Bukowski,1982,English,M,Germany
+16690,The Moon is a Harsh Mistress,Robert Heinlein,1966,English,M,USA
+400,Libra,Don DeLillo,1988,English,M,USA
+164154,A Canticle for Leibowitz,Walter M Miller Jr,1959,English,M,USA
+40792913,Altered Carbon,Richard Morgan,2018,English,M,England
+7805,Pale Fire,Vladimir Nabokov,1962,English,M,Russia
+156192,The Universal Baseball Association,Robert Coover,1968,English,M,USA
+36236125,Invisible Monsters,Chuck Palahniuk,1999,English,M,USA
+20342617,Just Mercy,Bryan Stevenson,2015,English,M,USA
+957186,Cleopatra,H Rider Haggard,1889,English,M,England
+17690,The Trial,Franz Kafka,1925,German,M,Austria-Hungary
+2443,The Innocents Abroad,Mark Twain,1869,English,M,USA
+23168277,The Sympathizer,Viet Thanh Nguyen,2015,English,M,USA
+42270835,The Nickel Boys,Colson Whitehead,2019,English,M,USA
+790171,Kon-Tiki,Thor Heyerdahl,1948,Norwegian,M,Norway
+2794,The Crying of Lot 49,Thomas Pynchon,1965,English,M,USA
+428,Play it as it Lays,Joan Didion,1970,English,F,USA
+9791,A Walk in the Woods,Bill Bryson,1997,English,M,USA
+40495148,Blindness,José Saramago,1995,Portuguese,M,Portugal
+545951,Death Comes for the Archbishop,Willa Cather,1927,English,F,USA
+397503,I Served the King of England,Bohumil Hrabal,1971,Czech,M,Austria-Hungary
+20518872,The Three-Body Problem,Liu Cixin,2008,Chinese,M,China
+48468,The Violent Bear It Away,Flannery O'Connor,1960,English,F,USA
+12172,Memoirs of Hadrian,Marguerite Yourcenar,1951,French,F,France
+418,Been Down So Long It Looks Like Up To Me,Richard Fariña,1966,English,M,USA
+30933,Brideshead Revisited,Evelyn Waugh,1945,English,M,England
+395182,Lucky Jim,Kingsley Amis,1954,English,M,England
+16299,And Then There Were None,Agatha Christie,1939,English,F,England
+625198,The Shiralee,D'Arcy Niland,1955,English,M,Australia
+57693663,Devil House,John Darnielle,2022,English,M,USA
+152893,Death and the Penguin,Andrey Kurkov,1996,Russian,M,USSR
+49090884,Tender is the Flesh,Agustina Bazterrica,2017,Spanish,F,Argentina
+457228,Butcher's Crossing,John Williams,1960,English,M,USA
+321566,Dictionary of the Khazars,Milorad Pavić,1984,Serbian,M,Ukraine
+4929,Kafka on the Shore,Haruki Murakami,2002,Japanese,M,Japan
+9328,The House of the Spirits,Isabel Allende,1982,Spanish,F,Chile
