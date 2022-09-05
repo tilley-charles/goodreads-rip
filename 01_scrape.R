@@ -12,11 +12,13 @@ library(xml2)
 source("fn/gr_meta_pull.R")
 
 
-# load IDs
-ids <-
+# source data frame
+src <-
   readr::read_csv("src/input.csv") %>%
-  assertr::verify(length(unique(id))==nrow(.)) %>%
-  pull(id)
+  mutate(gr_id = as.character(gr_id)) %>%
+  assertr::assert(is_uniq, gr_id)
+
+ids <- src %>% pull(gr_id)
 
 
 # pull down metadata
