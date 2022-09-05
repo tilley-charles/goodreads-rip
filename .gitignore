@@ -9,4 +9,4 @@
 !*.dcf
 !*.md
 !.gitignore
-!src/*
+!src/input.csv
