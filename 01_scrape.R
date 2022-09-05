@@ -37,6 +37,25 @@ gr_trycatch <- function(id) {
 
 df <- purrr::map_dfr(c(ids), ~ gr_trycatch(.x))
 
+df %<>%
+  inner_join(
+    .,
+    src,
+    by = "gr_id"
+  ) %>%
+  select(
+    gr_id,
+    gr_title,
+    gr_author,
+    publication,
+    language,
+    gender,
+    nationality,
+    gr_pages,
+    gr_ratings,
+    gr_stars
+  )
+
 
 # write out results
 write.csv(df, file = "results.csv", row.names = F)
