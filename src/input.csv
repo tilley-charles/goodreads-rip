@@ -1,79 +1,85 @@
-﻿gr_id,title,author,publication,language,gender,nationality
-3876,The Sun Also Rises,Ernest Hemingway,1926,English,M,USA
-394535,Blood Meridian,Cormac McCarthy,1985,English,M,USA
-3446,Going After Cacciato,Tim O'Brien,1978,English,M,USA
-22590,Ubik,Philip K Dick,1969,English,M,USA
-226378,A Hero of Our Time,Mikhail Lermontov,1840,Russian,M,Russian Empire
-18765,"I, Claudius",Robert Graves,1934,English,M,England
-8682,Jitterbug Perfume,Tom Robbins,1984,English,M,USA
-83017,The Tartar Steppe,Dino Buzzati,1940,Italian,M,Italy
-17797381,Innocence,Dean Koontz,2013,English,M,USA
-29999,The Maltese Falcon,Dashiell Hammett,1930,English,M,USA
-9712,Love in the Time of Cholera,Gabriel García Márquez,1985,Spanish,M,Colombia
-10054335,Rules of Civility,Amor Towles,2011,English,M,USA
-248596,Something Wicked This Way Comes,Ray Bradbury,1962,English,M,USA
-438452,The Long Ships,Frans G Bengtsson,1941,Swedish,M,Sweden
-7101,The 42nd Parallel,John Dos Passos,1930,English,M,USA
-43035,White Fang,Jack London,1906,English,M,USA
-34928122,Artemis,Andy Weir,2017,English,M,USA
-37380,The Heart is a Lonely Hunter,Carson McCullers,1940,English,F,USA
-183199,Warlock,Oakley Hall,1958,English,M,USA
-6867,Atonement,Ian McEwan,2001,English,M,England
-30672,Darkness at Noon,Arthur Koestler,1940,German,M,Austria-Hungary
-59149,Beware of Pity,Stefan Zweig,1939,German,M,Austria-Hungary
-36739942,Lake Success,Gary Shteyngart,2018,English,M,USA
-386187,Midnight in the Garden of Good and Evil,John Berendt,1994,English,M,USA
-38501,Ham on Rye,Charles Bukowski,1982,English,M,Germany
-16690,The Moon is a Harsh Mistress,Robert Heinlein,1966,English,M,USA
-400,Libra,Don DeLillo,1988,English,M,USA
-164154,A Canticle for Leibowitz,Walter M Miller Jr,1959,English,M,USA
-40792913,Altered Carbon,Richard Morgan,2018,English,M,England
-7805,Pale Fire,Vladimir Nabokov,1962,English,M,Russian Empire
-156192,The Universal Baseball Association,Robert Coover,1968,English,M,USA
-36236125,Invisible Monsters,Chuck Palahniuk,1999,English,M,USA
-20342617,Just Mercy,Bryan Stevenson,2015,English,M,USA
-957186,Cleopatra,H Rider Haggard,1889,English,M,England
-17690,The Trial,Franz Kafka,1925,German,M,Austria-Hungary
-2443,The Innocents Abroad,Mark Twain,1869,English,M,USA
-23168277,The Sympathizer,Viet Thanh Nguyen,2015,English,M,USA
-42270835,The Nickel Boys,Colson Whitehead,2019,English,M,USA
-790171,Kon-Tiki,Thor Heyerdahl,1948,Norwegian,M,Norway
-2794,The Crying of Lot 49,Thomas Pynchon,1965,English,M,USA
-428,Play it as it Lays,Joan Didion,1970,English,F,USA
-9791,A Walk in the Woods,Bill Bryson,1997,English,M,USA
-40495148,Blindness,José Saramago,1995,Portuguese,M,Portugal
-545951,Death Comes for the Archbishop,Willa Cather,1927,English,F,USA
-397503,I Served the King of England,Bohumil Hrabal,1971,Czech,M,Austria-Hungary
-20518872,The Three-Body Problem,Liu Cixin,2008,Chinese,M,China
-48468,The Violent Bear It Away,Flannery O'Connor,1960,English,F,USA
-12172,Memoirs of Hadrian,Marguerite Yourcenar,1951,French,F,France
-418,Been Down So Long It Looks Like Up To Me,Richard Fariña,1966,English,M,USA
-30933,Brideshead Revisited,Evelyn Waugh,1945,English,M,England
-395182,Lucky Jim,Kingsley Amis,1954,English,M,England
-16299,And Then There Were None,Agatha Christie,1939,English,F,England
-625198,The Shiralee,D'Arcy Niland,1955,English,M,Australia
-57693663,Devil House,John Darnielle,2022,English,M,USA
-152893,Death and the Penguin,Andrey Kurkov,1996,Russian,M,Ukraine
-49090884,Tender is the Flesh,Agustina Bazterrica,2017,Spanish,F,Argentina
-457228,Butcher's Crossing,John Williams,1960,English,M,USA
-321566,Dictionary of the Khazars,Milorad Pavić,1984,Serbian,M,Serbia
-4929,Kafka on the Shore,Haruki Murakami,2002,Japanese,M,Japan
-9328,The House of the Spirits,Isabel Allende,1982,Spanish,F,Chile
-7069,The World According to Garp,John Irving,1978,English,M,USA
-762134,Palace Walk,Naguib Mahfouz,1956,Arabic,M,Egypt
-117833,The Master and Margarita,Mikhail Bulgakov,1967,Russian,M,Russian Empire
-6149,Beloved,Toni Morrison,1987,English,F,USA
-25480342,A Monster Calls,Patrick Ness,2011,English,M,USA
-13651,The Dispossessed,Ursula K. Le Guin,1974,English,F,USA
-144634,The Floating Opera,John Barth,1956,English,M,USA
-406235,Giovanni's Room,James Baldwin,1956,English,M,USA
-12585,The Optimist's Daughter,Eudora Welty,1972,English,F,USA
-394469,Suttree,Cormac McCarthy,1979,English,M,USA
-18386,The Death of Ivan Ilych,Leo Tolstoy,1886,Russian,M,Russian Empire
-11653,I Married a Communist,Philip Roth,1998,English,M,USA
-86147,"Bright Lights, Big City",Jay McInerney,1984,English,M,USA
-51732144,Clay's Quilt,Silas House,2001,English,M,USA
-4980,Breakfast of Champions,Kurt Vonnegut,1973,English,M,USA
-3690,The Power and the Glory,Graham Greene,1940,English,M,England
-207916,The Supermale,Alfred Jarry,1902,French,M,France
-5297,The Picture of Dorian Gray,Oscar Wilde,1890,English,M,Ireland
+﻿gr_id,title,author,publication,language,gender,birth,death,nationality
+3876,The Sun Also Rises,Ernest Hemingway,1926,English,M,1899,1961,USA
+394535,Blood Meridian,Cormac McCarthy,1985,English,M,1933,2023,USA
+3446,Going After Cacciato,Tim O'Brien,1978,English,M,1946,,USA
+22590,Ubik,Philip K. Dick,1969,English,M,1928,1982,USA
+226378,A Hero of Our Time,Mikhail Lermontov,1840,Russian,M,1814,1841,Russian Empire
+18765,"I, Claudius",Robert Graves,1934,English,M,1895,1985,England
+8682,Jitterbug Perfume,Tom Robbins,1984,English,M,1932,,USA
+83017,The Tartar Steppe,Dino Buzzati,1940,Italian,M,1906,1972,Italy
+17797381,Innocence,Dean Koontz,2013,English,M,1945,,USA
+29999,The Maltese Falcon,Dashiell Hammett,1930,English,M,1894,1961,USA
+9712,Love in the Time of Cholera,Gabriel García Márquez,1985,Spanish,M,1927,2014,Colombia
+10054335,Rules of Civility,Amor Towles,2011,English,M,1964,,USA
+248596,Something Wicked This Way Comes,Ray Bradbury,1962,English,M,1920,2012,USA
+438452,The Long Ships,Frans G. Bengtsson,1941,Swedish,M,1894,1954,Sweden
+7101,The 42nd Parallel,John Dos Passos,1930,English,M,1896,1970,USA
+43035,White Fang,Jack London,1906,English,M,1876,1916,USA
+34928122,Artemis,Andy Weir,2017,English,M,1972,,USA
+37380,The Heart is a Lonely Hunter,Carson McCullers,1940,English,F,1917,1967,USA
+183199,Warlock,Oakley Hall,1958,English,M,1920,2008,USA
+6867,Atonement,Ian McEwan,2001,English,M,1948,,England
+30672,Darkness at Noon,Arthur Koestler,1940,German,M,1905,1983,Austria-Hungary
+59149,Beware of Pity,Stefan Zweig,1939,German,M,1881,1942,Austria-Hungary
+36739942,Lake Success,Gary Shteyngart,2018,English,M,1972,,USA
+386187,Midnight in the Garden of Good and Evil,John Berendt,1994,English,M,1939,,USA
+38501,Ham on Rye,Charles Bukowski,1982,English,M,1920,1994,Germany
+16690,The Moon is a Harsh Mistress,Robert A. Heinlein,1966,English,M,1907,1988,USA
+400,Libra,Don DeLillo,1988,English,M,1936,,USA
+164154,A Canticle for Leibowitz,Walter M. Miller Jr.,1959,English,M,1923,1996,USA
+40792913,Altered Carbon,Richard K. Morgan,2018,English,M,1965,,England
+7805,Pale Fire,Vladimir Nabokov,1962,English,M,1899,1977,Russian Empire
+156192,The Universal Baseball Association,Robert Coover,1968,English,M,1932,,USA
+36236125,Invisible Monsters,Chuck Palahniuk,1999,English,M,1962,,USA
+20342617,Just Mercy,Bryan Stevenson,2015,English,M,1959,,USA
+957186,Cleopatra,H. Rider Haggard,1889,English,M,1856,1925,England
+17690,The Trial,Franz Kafka,1925,German,M,1883,1924,Austria-Hungary
+2443,The Innocents Abroad,Mark Twain,1869,English,M,1835,1910,USA
+23168277,The Sympathizer,Viet Thanh Nguyen,2015,English,M,1971,,USA
+42270835,The Nickel Boys,Colson Whitehead,2019,English,M,1969,,USA
+790171,Kon-Tiki,Thor Heyerdahl,1948,Norwegian,M,1914,2002,Norway
+2794,The Crying of Lot 49,Thomas Pynchon,1965,English,M,1937,,USA
+428,Play it as it Lays,Joan Didion,1970,English,F,1934,2021,USA
+9791,A Walk in the Woods,Bill Bryson,1997,English,M,1951,,USA
+40495148,Blindness,José Saramago,1995,Portuguese,M,1922,2010,Portugal
+545951,Death Comes for the Archbishop,Willa Cather,1927,English,F,1873,1947,USA
+397503,I Served the King of England,Bohumil Hrabal,1971,Czech,M,1914,1997,Czechoslovakia
+20518872,The Three-Body Problem,Liu Cixin,2008,Chinese,M,1963,,China
+48468,The Violent Bear It Away,Flannery O'Connor,1960,English,F,1925,1964,USA
+12172,Memoirs of Hadrian,Marguerite Yourcenar,1951,French,F,1903,1987,France
+418,Been Down So Long It Looks Like Up To Me,Richard Fariña,1966,English,M,1937,1966,USA
+30933,Brideshead Revisited,Evelyn Waugh,1945,English,M,1903,1966,England
+395182,Lucky Jim,Kingsley Amis,1954,English,M,1922,1995,England
+16299,And Then There Were None,Agatha Christie,1939,English,F,1890,1976,England
+625198,The Shiralee,D'Arcy Niland,1955,English,M,1917,1967,Australia
+57693663,Devil House,John Darnielle,2022,English,M,1967,,USA
+152893,Death and the Penguin,Andrey Kurkov,1996,Russian,M,1961,,Ukraine
+49090884,Tender is the Flesh,Agustina Bazterrica,2017,Spanish,F,1974,,Argentina
+457228,Butcher's Crossing,John Williams,1960,English,M,1922,1994,USA
+321566,Dictionary of the Khazars,Milorad Pavić,1984,Serbian,M,1929,2009,Serbia
+4929,Kafka on the Shore,Haruki Murakami,2002,Japanese,M,1949,,Japan
+9328,The House of the Spirits,Isabel Allende,1982,Spanish,F,1942,,Chile
+7069,The World According to Garp,John Irving,1978,English,M,1942,,USA
+762134,Palace Walk,Naguib Mahfouz,1956,Arabic,M,1911,2006,Egypt
+117833,The Master and Margarita,Mikhail Bulgakov,1967,Russian,M,1891,1940,Russian Empire
+6149,Beloved,Toni Morrison,1987,English,F,1931,2019,USA
+25480342,A Monster Calls,Patrick Ness,2011,English,M,1971,,USA
+13651,The Dispossessed,Ursula K. Le Guin,1974,English,F,1929,2018,USA
+144634,The Floating Opera,John Barth,1956,English,M,1930,2024,USA
+406235,Giovanni's Room,James Baldwin,1956,English,M,1924,1987,USA
+12585,The Optimist's Daughter,Eudora Welty,1972,English,F,1909,2001,USA
+394469,Suttree,Cormac McCarthy,1979,English,M,1933,2023,USA
+18386,The Death of Ivan Ilych,Leo Tolstoy,1886,Russian,M,1828,1910,Russian Empire
+11653,I Married a Communist,Philip Roth,1998,English,M,1933,2018,USA
+86147,"Bright Lights, Big City",Jay McInerney,1984,English,M,1955,,USA
+51732144,Clay's Quilt,Silas House,2001,English,M,1971,,USA
+4980,Breakfast of Champions,Kurt Vonnegut,1973,English,M,1922,2007,USA
+3690,The Power and the Glory,Graham Greene,1940,English,M,1904,1991,England
+207916,The Supermale,Alfred Jarry,1902,French,M,1873,1907,France
+5297,The Picture of Dorian Gray,Oscar Wilde,1890,English,M,1854,1900,Ireland
+3711,White Teeth,Zadie Smith,2000,English,F,1975,,England
+231804,The Outsiders,S.E. Hinton,1967,English,F,1948,,USA
+6220,The Wreath,Sigrid Undset,1920,Norwegian,F,1882,1949,Norway
+434903,The Rings of Saturn,W.G. Sebald,1995,German,M,1944,2001,Germany
+9858081,The Code of the Woosters,P.G. Wodehouse,1938,English,M,1881,1975,England
+60784757,Birnam Wood,Eleanor Catton,2023,English,F,1985,,New Zealand
