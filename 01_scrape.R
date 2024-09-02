@@ -50,6 +50,8 @@ df %<>%
     publication,
     language,
     gender,
+    birth,
+    death,
     nationality,
     gr_pages,
     gr_ratings,
@@ -58,5 +60,5 @@ df %<>%
 
 
 # write out results
-write.csv(df, file = "results.csv", row.names = F)
+write.csv(df, file = "results.csv", row.names = FALSE, na = "")
 
