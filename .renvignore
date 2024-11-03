@@ -1,0 +1,7 @@
+renv/cellar/*
+renv/sandbox/*
+renv/library/*
+renv/local/*
+renv/lock/*
+renv/python/*
+renv/staging/*

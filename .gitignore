@@ -9,4 +9,5 @@
 !*.dcf
 !*.md
 !.gitignore
+!.renvignore
 !src/input.csv
