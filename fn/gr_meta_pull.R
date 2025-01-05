@@ -12,8 +12,6 @@ gr_meta_pull <- function(id) {
   df <-
     tibble(
       gr_id      = id,
-      gr_title   = html %>% rvest::html_node("[class='BookPageTitleSection__title']") %>% html_nodes("h1") %>% html_text(.),
-      gr_author  = html %>% rvest::html_node("[class='ContributorLink__name']") %>% html_text(.),
       gr_pages   = html %>% rvest::html_node("[class='FeaturedDetails']") %>% html_node("p:nth-child(1)") %>% html_text(.),
       gr_ratings = html %>% rvest::html_node("[class='RatingStatistics__meta']") %>% html_node("span:nth-child(1)") %>% html_text(.),
       gr_stars   = html %>% rvest::html_node("[class='RatingStatistics__rating']") %>% html_text(.)

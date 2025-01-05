@@ -45,8 +45,8 @@ df %<>%
   ) %>%
   select(
     gr_id,
-    gr_title,
-    gr_author,
+    title,
+    author,
     publication,
     language,
     gender,
