@@ -43,6 +43,7 @@ df %<>%
     src,
     by = "gr_id"
   ) %>%
+  arrange(desc(dplyr::row_number())) %>%
   select(
     gr_id,
     title,
